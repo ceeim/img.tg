@@ -16,7 +16,7 @@
 
 ## 插件
 - #### Discuz 通用图片上传插件
-> 目前已支持的论坛：Hostloc、Keylol（SteamCN）、Koolshare、吾爱破解、卡饭、恩山。<br>先<a href="https://www.tampermonkey.net" target="_blank">安装油猴</a>，再<a href="https://greasyfork.org/zh-CN/scripts/404876" target="_blank">安装本插件</a>，附<a href="https://www.hostloc.com/thread-698806-1-1.html" target="_blank">简单教程</a>。<br>![](https://i.w3tt.com/2020/06/04/Omz4b.gif)
+> 目前已支持的论坛：Hostloc、Keylol（SteamCN）、Koolshare、吾爱破解、卡饭、恩山。<br>先<a href="https://www.tampermonkey.net" target="_blank">安装油猴</a>，再<a href="https://greasyfork.org/zh-CN/scripts/404876" target="_blank">安装本插件</a>，附<a href="https://www.hostloc.com/thread-698806-1-1.html" target="_blank">简单教程</a>。<br>[](https://i.w3tt.com/2020/06/04/Omz4b.gif)
 - #### 更多待添加...
 
 ## 许可
@@ -25,3 +25,5 @@
 基于 <a href="https://github.com/ceecx/img.tg/blob/master/LICENSE" target="_blank">GPLv3</a> / 
 <a href="https://img.tg/page/tos" target="_blank">服务条款</a> / 
 <a href="https://img.tg/page/privacy" target="_blank">隐私政策</a>
+---
+Twitter [@CeeAPT](https://twitter.com/CeeAPT)
