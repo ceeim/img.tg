@@ -16,8 +16,10 @@
 
 ## 插件
 - #### Discuz 通用图片上传插件
-> 目前已支持的论坛：Hostloc、Keylol（SteamCN）、Koolshare、吾爱破解、卡饭、恩山。<br>
-先[安装油猴](https://www.tampermonkey.net)，再[安装本插件](https://greasyfork.org/zh-CN/scripts/404876)，附[简单教程](https://www.hostloc.com/thread-698806-1-1.html)。<br>
+> 目前已支持的论坛：Hostloc、Keylol（SteamCN）、Koolshare、吾爱破解、卡饭、恩山。
+<br>
+先[安装油猴](https://www.tampermonkey.net)，再[安装本插件](https://greasyfork.org/zh-CN/scripts/404876)，附[简单教程](https://www.hostloc.com/thread-698806-1-1.html)。
+<br>
 ![](https://i.w3tt.com/2020/06/04/Omz4b.gif)
 - #### 更多待添加...
 
