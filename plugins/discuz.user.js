@@ -2,7 +2,7 @@
 // @name         Discuz 通用图片上传插件
 // @namespace    https://cee.cx
 // @author       Cee
-// @version      1.0.1
+// @version      1.0.2
 // @license      GPLv3
 // @description  快捷上传图片到 IMG.TG 并自动返回 BBCode 到文本框中
 // @grant        none
@@ -355,7 +355,7 @@ nw.c([
   ] , function(){
 
     nw.addScriptLink({
-      'src' : 'https://img.tg/sdk/pup.cee.js',
+      'src' : 'https://cdn.jsdelivr.net/gh/ceecx/img.tg@1.0.2/plugins/pup.cee.js',
     });
 });
 
