@@ -1,16 +1,15 @@
 /* --------------------------------------------------------------------
 
-  PUP Revision By Cee
-
+  IMG.TG PUP DISCUZ
   @website	https://img.tg/
-  @version	1.0.2
-  @author	Cee <https://cee.cx/>
+  @version	1.0.3
+  @author	Cee <https://cee.im/>
 
   --------------------------------------------------------------------- */
   (function () {
     var PUP = {
         defaultSettings: {
-            url: "https://img.w3tt.com/upload",
+            url: "https://img.tg/upload",
             vendor: "auto",
             mode: "auto",
             lang: "auto",
