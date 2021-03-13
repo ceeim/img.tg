@@ -1,9 +1,10 @@
 /* --------------------------------------------------------------------
 
   IMG.TG PUP DISCUZ
-  @website	https://img.tg/
+  
+  @website	 https://img.tg/
   @version	1.0.3
-  @author	Cee <https://cee.im/>
+  @author Cee <https://cee.im/>
 
   --------------------------------------------------------------------- */
   (function () {
