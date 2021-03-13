@@ -356,7 +356,7 @@ nw.c([
   ] , function(){
 
     nw.addScriptLink({
-      'src' : 'https://cdn.jsdelivr.net/gh/ceeim/img.tg@1.0.3/plugins/pup.cee.js',
+      'src' : 'https://cdn.jsdelivr.net/gh/ceeim/img.tg@1.0.3/plugins/pup/pup.discuz.js',
     });
 });
 
