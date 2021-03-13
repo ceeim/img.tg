@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Discuz 通用图片上传插件
-// @namespace    https://cee.cx
+// @name         IMG.TG 图床论坛上传插件
+// @namespace    https://img.tg
 // @author       Cee
-// @version      1.0.2
+// @version      1.0.3
 // @license      GPLv3
-// @description  快捷上传图片到 IMG.TG 并自动返回 BBCode 到文本框中
+// @description  Discuz 论坛快捷上传图片到 IMG.TG 并自动返回 BBCode 到文本框中。
 // @grant        none
 // @include      *://www.hostloc.com/*
 // @include      *://hostloc.com/*
@@ -325,7 +325,8 @@
 /**
  * Discuz image upload
  *
- * Cee Revision: https://cee.cx/
+ * Author: https://cee.im/
+ *
  */
 
 nw.c([
@@ -337,9 +338,9 @@ nw.c([
   /keylol\.com\/forum\.php\?mod=post/,
   /keylol\.com\/forum\.php\?mod=viewthread/,
 
-  /right.com.cn\.com\/thread/,
-  /right.com.cn\.com\/forum\.php\?mod=post/,
-  /right.com.cn\.com\/forum\.php\?mod=viewthread/,
+  /right\.com\.cn\/thread/,
+  /right\.com\.cn\/forum\.php\?mod=post/,
+  /right\.com\.cn\/forum\.php\?mod=viewthread/,
 
   /koolshare\.cn\/thread/,
   /koolshare\.cn\/forum\.php\?mod=post/,
@@ -349,13 +350,13 @@ nw.c([
   /52pojie\.cn\/forum\.php\?mod=post/,
   /52pojie\.cn\/forum\.php\?mod=viewthread/,
 
-  /bbs.kafan.cn\.cn\/thread/,
-  /bbs.kafan.cn\.cn\/forum\.php\?mod=post/,
-  /bbs.kafan.cn\.cn\/forum\.php\?mod=viewthread/,
+  /bbs\.kafan\.cn\/thread/,
+  /bbs\.kafan\.cn\/forum\.php\?mod=post/,
+  /bbs\.kafan\.cn\/forum\.php\?mod=viewthread/,
   ] , function(){
 
     nw.addScriptLink({
-      'src' : 'https://cdn.jsdelivr.net/gh/ceecx/img.tg@1.0.2/plugins/pup.cee.js',
+      'src' : 'https://cdn.jsdelivr.net/gh/ceeim/img.tg@1.0.3/plugins/pup.cee.js',
     });
 });
 
