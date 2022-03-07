@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         IMG.TG 图床论坛上传插件
-// @namespace    https://img.tg
+// @name         TG 图床 Discuz 论坛上传插件 (IMG.TG)
+// @namespace    https://imgtg.com
 // @author       Cee
-// @version      1.0.3
+// @version      1.1
 // @license      GPLv3
-// @description  Discuz 论坛快捷上传图片到 IMG.TG 并自动返回 BBCode 到文本框中。
+// @description  Discuz 论坛快捷上传图片到 imgtg.com 并自动返回 BBCode 到文本框中。
 // @grant        none
 // @include      *://www.hostloc.com/*
 // @include      *://hostloc.com/*
@@ -323,9 +323,9 @@
 
 
 /**
- * Discuz image upload
+ * Discuz image upload to imgtg.com
  *
- * Author: https://cee.im/
+ * Author: https://cee.im
  *
  */
 
@@ -356,7 +356,7 @@ nw.c([
   ] , function(){
 
     nw.addScriptLink({
-      'src' : 'https://cdn.jsdelivr.net/gh/ceeim/img.tg@1.0.3/plugins/pup/pup.discuz.js',
+      'src' : 'https://imgtg.com/sdk/pup.discuz.js',
     });
 });
 
