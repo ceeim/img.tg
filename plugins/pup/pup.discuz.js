@@ -1,16 +1,16 @@
 /* --------------------------------------------------------------------
 
-  IMG.TG PUP DISCUZ
+  IMGTG.COM PUP For Discuz
   
-  @website	 https://img.tg/
-  @version	1.0.3
+  @website	https://imgtg.com
+  @version	1.1
   @author Cee <https://cee.im/>
 
   --------------------------------------------------------------------- */
   (function () {
     var PUP = {
         defaultSettings: {
-            url: "https://img.tg/upload",
+            url: "https://imgtg.com/upload",
             vendor: "auto",
             mode: "auto",
             lang: "auto",
